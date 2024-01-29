@@ -41,4 +41,17 @@ SASS, SCSS, LESS
 |           | Specialization: Professional Education (Programming)
 |           | Profession: Teacher-Programmer
 |           | Enrollment: Full-time budgetary
+## **EXPERIENCE**
+****
+| July 2019 - April 2022 | Full-Stack Developer |
+| :---      |  :---                                                  |
+|           |Banking and Finance
+|           |The platform allows to carry out various accounting operations automatically.
+|           |Activities: new feature implementation, SCRUM, create new React components, demo, estimating, mentoring, create new ElasticSearch   indexes, write unit tests, work with bank messages(mostly from SWIFT), requirements collecting/verifying, evaluation of epics and distribution of tasks between developers,  cross-team communication and support for internal departments.|
+****
+| May 2022 - January 2024 | Backend Developer |
+| :---      |  :---                                                  |
+|           |Games
+|           |SaaS project that divides the audience of users into sub-audiences using rules. 
+|           |Activities: creating new RabbitMQ workers, migrating from MySQL to MongoDB, creating documentation and UML diagrams, Docker/Docker compose, optimizing sql queries and memory consumption, log errors in newRelic, create cron jobs, work with redis.|
 
