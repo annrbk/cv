@@ -33,4 +33,12 @@ Cap
 React + Redux 
 HTML5/CSS3 
 SASS, SCSS, LESS
+## **EDUCATION**
+| 2018-2020 | Pedagouge-Developer |
+| :---      |  :---                                                  |
+|           | BUSIR, Minsk
+|           | Faculty: Faculty of Radielektronyk
+|           | Specialization: Professional Education (Programming)
+|           | Profession: Teacher-Programmer
+|           | Enrollment: Full-time budgetary
 
