@@ -54,4 +54,22 @@ SASS, SCSS, LESS
 |           |Games
 |           |SaaS project that divides the audience of users into sub-audiences using rules. 
 |           |Activities: creating new RabbitMQ workers, migrating from MySQL to MongoDB, creating documentation and UML diagrams, Docker/Docker compose, optimizing sql queries and memory consumption, log errors in newRelic, create cron jobs, work with redis.|
-
+***
+*Personal information*
+Birthdate - 06.01.1997
+Gender - Male
+Residence - Batumi, Georgia
+Nationality - Belarus
+****
+*Interests*
+Swimming, Table tennis, Fishing, Kayaking, Music, Gaming (currently playing Dark Souls 3 and It Takes Two), Movies, Anime (One Piece...)
+****
+*Languages*
+English - B1
+Belarusian - Native
+Russian - Native
+****
+*Contact*
+[email](pomycb.sd@gamil.com)
+[linkedin](https://www.linkedin.com/in/raman-harbunou-523ab21a5/overlay/about-this-profile/)
+[telegram](https://t.me/pomycb)
