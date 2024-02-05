@@ -1,0 +1,39 @@
+.color {
+    color:grey;
+}
+
+.item {
+    list-style-type: none;
+} 
+
+.container {
+    display: flex;
+    width: 100%;
+}
+
+.list-left {
+    display: block;
+   width: 50%;
+   float: left;
+}
+
+.list-right {
+    display: block;
+    width: 50%;
+    float: right;
+}
+
+.title {
+    display: flex;
+    width: 50%;
+}
+
+.column-left {
+    width: 30%;
+    float: left;
+}
+
+.column-right {
+    width: 70%;
+    float: right;
+}
