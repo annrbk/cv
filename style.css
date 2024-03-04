@@ -1,39 +1,168 @@
-.color {
-    color:grey;
+@font-face {
+    font-family: "Poppins";
+    src: url("assets/fonts/Poppins-Bold.ttf");
+    font-weight: 800;
 }
 
-.item {
-    list-style-type: none;
-} 
-
-.container {
-    display: flex;
-    width: 100%;
+  @font-face {
+    font-family: "Poppins";
+    src: url("assets/fonts/Poppins-Regular.ttf");
+    font-weight: 300;
 }
 
-.list-left {
-    display: block;
-   width: 50%;
-   float: left;
-}
-
-.list-right {
-    display: block;
-    width: 50%;
-    float: right;
-}
-
-.title {
-    display: flex;
-    width: 50%;
+  @font-face {
+    font-family: "Poppins";
+    src: url("assets/fonts/Poppins-Medium.ttf");
+    font-weight: 500;
 }
 
 .column-left {
-    width: 30%;
+    width: 20%;
     float: left;
+    font-size: 28px;
 }
 
 .column-right {
-    width: 70%;
+    width: 80%;
     float: right;
+    font-size: 28px;
 }
+
+.container {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+} 
+
+.list-left {
+    display: flex;
+    width: 720px;
+    flex-direction: column;
+    font-size: 28px;
+}
+
+.list-right {
+    display: flex;
+    width: 720px;
+    flex-direction: column;
+    font-size: 28px;
+    margin-right: 50px;
+}
+
+.row {
+    display: flex;
+    width: 1440px;
+}
+
+.image {
+    width: 345px;
+    height: 415px;
+    float: right;
+    margin-right: 108px;
+    margin-top: 15px;
+}
+
+.body {
+    font-family: "Poppins", sans-serif;
+    width: 1440px;
+    margin: 0 90px 0 90px;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+    margin: 0 10px 0 10px;
+    margin-left: 0;
+}
+
+.items {
+    margin-top: 5px;
+    line-height: 1.7;
+}
+
+.item-title {
+    width: 40%;
+    font-size: 28px;
+    margin-top: 0;
+}
+
+.score {
+    width: 45%;
+    height: 24px;
+    background-color: #E7E7E7;
+    margin-left: 30px;
+}
+
+.score-90 {
+    height: 24px;
+    width: 90%;
+    background-color: #1A5C62;
+}
+
+.score-80 {
+    height: 24px;
+    width: 80%;
+    background-color: #1A5C62;
+}
+
+.score-70 {
+    height: 24px;
+    width: 70%;
+    background-color: #1A5C62;
+}
+
+.score-60 {
+    height: 24px;
+    width: 60%;
+    background-color: #1A5C62;
+}
+
+.score-50 {
+    height: 24px;
+    width: 50%;
+    background-color: #1A5C62;
+}
+
+.score-40 {
+    height: 24px;
+    width: 40%;
+    background-color: #1A5C62;
+}
+
+.score-30 {
+    height: 24px;
+    width: 30%;
+    background-color: #1A5C62;
+}
+
+.title-h2 {
+    font-family: "Poppins", sans-serif;
+    margin-bottom: 0;
+    font-size: 40px;
+    margin-top: 40px;
+}
+
+.title-h1 {
+    font-family: "Poppins", sans-serif;
+    font-size: 93px;
+    font-weight: 900;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 1.3;
+    word-spacing: 0;
+}
+
+.title {
+    font-size: 37px;
+    margin-top: 25px;
+    margin-bottom: 2px;
+    font-weight: 500;
+}
+
+.footer-h2 {
+    color: #1A5C62;
+    font-size: 36px;
+    font-weight: 100;
+    margin-top: 65px;
+}
+
